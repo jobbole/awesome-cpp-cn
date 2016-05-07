@@ -10,9 +10,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 基于 awesome-cpp 资源列表，我们将对各个资源项进行编译整理。
 - 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[BlockAlertsAnd-ActionSheets：一个支持block的弹出框](http://hao.jobbole.com/blockalertsand-actionsheets-ios/)》
-  - 《[MBProgressHUD：一个不错的进度提示工具](http://hao.jobbole.com/mbprogresshud-ios/)》
-  - 《[Wonderful：不仅仅是一个酷炫的颜色库](http://hao.jobbole.com/wonderful/)》
+  - 《[libPhenom：Facebook开源的高性能 C 语言并发编程框架](http://hao.jobbole.com/libphenom/)》
+  - 《[OpenFrameworks：一个用C++编码的跨平台开源工具包](http://hao.jobbole.com/openframeworks/)》
 
 * * *
 
