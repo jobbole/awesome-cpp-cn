@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、、You
+- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -252,7 +252,7 @@ C++通用框架和库
 *   ITK：跨平台的开源图像分析系统。[官网](http://www.itk.org/)
 *   Magick++：ImageMagick程序的C++接口。[官网](http://www.imagemagick.org/script/api.php)
 *   MagickWnd：ImageMagick程序的C++接口。[官网](http://www.imagemagick.org/script/api.php)
-*   OpenCV：开源计算机视觉类库。[官网](http://opencv.org/)
+*   [OpenCV](http://hao.jobbole.com/opencv/)：开源计算机视觉类库。[官网](http://opencv.org/)
 *   tesseract-ocr：OCR引擎。[官网](https://code.google.com/p/tesseract-ocr/)
 *   VIGRA：用于图像分析通用C++计算机视觉库。[官网](https://github.com/ukoethe/vigra)
 *   VTK：用于3D计算机图形学，图像处理和可视化的开源免费软件系统。[官网](http://www.vtk.org/)
