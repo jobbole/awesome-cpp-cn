@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、You
+- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、[冰斌](http://www.jobbole.com/members/libing1209/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -291,7 +291,7 @@ C++通用框架和库
 ### 机器学习
 
 *   Caffe：快速的神经网络框架。[官网](https://github.com/BVLC/caffe)
-*   CCV：以C语言为核心的现代计算机视觉库。[官网](https://github.com/liuliu/ccv)
+*   [CCV](http://hao.jobbole.com/ccv/)：以C语言为核心的现代计算机视觉库。[官网](https://github.com/liuliu/ccv)
 *   mlpack：可扩展的C++机器学习库。[官网](http://www.mlpack.org/)
 *   OpenCV：开源计算机视觉库。[官网](https://github.com/Itseez/opencv)
 *   Recommender：使用协同过滤进行产品推荐/建议的C语言库。[官网](https://github.com/GHamrouni/Recommender)
