@@ -78,7 +78,7 @@ C++通用框架和库
 *   LibU：C语言写的多平台工具库。[官网](https://github.com/koanlogic/libu)
 *   Loki：C++库的设计，包括常见的设计模式和习语的实现。[官网](http://loki-lib.sourceforge.net/)
 *   MiLi：只含头文件的小型C++库。[官网](https://code.google.com/p/mili/)
-*   openFrameworks：开发C++工具包，用于创意性编码。[官网](http://www.openframeworks.cc/)
+*   [openFrameworks](http://hao.jobbole.com/openframeworks/)：开发C++工具包，用于创意性编码。[官网](http://www.openframeworks.cc/)
 *   Qt：跨平台的应用程序和用户界面框架。[官网](http://qt-project.org/)
 *   Reason：跨平台的框架，使开发者能够更容易地使用Java，.Net和Python，同时也满足了他们对C++性能和优势的需求。[官网](http://code.google.com/p/reason/)
 *   ROOT：具备所有功能的一系列面向对象的框架，能够非常高效地处理和分析大量的数据，为欧洲原子能研究机构所用。[官网](http://root.cern.ch/)
