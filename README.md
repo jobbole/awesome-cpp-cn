@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、[冰斌](http://www.jobbole.com/members/libing1209/)、You
+- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、[冰斌](http://www.jobbole.com/members/libing1209/)、[Juliesand](http://www.jobbole.com/members/Juliesh/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -244,7 +244,7 @@ C++通用框架和库
 
 ### 图像处理
 
-*   Boost.GIL：通用图像库。[官网](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html)
+*   [Boost.GIL](http://hao.jobbole.com/boost-gil/)：通用图像库。[官网](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html)
 *   CImg：用于图像处理的小型开源C++工具包。[官网](http://cimg.sourceforge.net/)
 *   CxImage：用于加载，保存，显示和转换的图像处理和转换库，可以处理的图片格式包括 BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K。[官网](http://www.xdp.it/cximage.htm)
 *   FreeImage：开源库，支持现在多媒体应用所需的通用图片格式和其他格式。[官网](http://freeimage.sourceforge.net/)
