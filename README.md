@@ -73,7 +73,7 @@ C++通用框架和库
 *   ffead-cpp：企业应用程序开发框架。[官网](https://github.com/sumeetchhetri/ffead-cpp)
 *   Folly：由Facebook开发和使用的开源C++库。[官网](https://github.com/facebook/folly)
 *   JUCE：包罗万象的C++类库，用于开发跨平台软件。[官网](https://github.com/julianstorer/JUCE)
-*   libPhenom：用于构建高性能和高度可扩展性系统的事件框架。[官网](https://github.com/facebook/libphenom)
+*   [libPhenom](http://hao.jobbole.com/libphenom/)：用于构建高性能和高度可扩展性系统的事件框架。[官网](https://github.com/facebook/libphenom)、[GitHub](https://github.com/facebook/libphenom)
 *   LibSourcey：用于实时的视频流和高性能网络应用程序的C++11 evented IO。[官网](https://github.com/sourcey/libsourcey)
 *   LibU：C语言写的多平台工具库。[官网](https://github.com/koanlogic/libu)
 *   Loki：C++库的设计，包括常见的设计模式和习语的实现。[官网](http://loki-lib.sourceforge.net/)
