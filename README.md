@@ -523,7 +523,7 @@ C/C++集成开发环境列表
 提高质量，减少瑕疵的代码分析工具列表
 
 *   [Cppcheck](http://hao.jobbole.com/cppcheck/)：静态C/C++代码分析工具。[官网](http://cppcheck.sourceforge.net/)
-*   include-what-you-use：使用clang进行代码分析的工具，可以#include在C和C++文件中。[官网](https://code.google.com/p/include-what-you-use/)
+*   [include-what-you-use](http://hao.jobbole.com/include-what-you-use/)：使用clang进行代码分析的工具，可以#include在C和C++文件中。[官网](https://code.google.com/p/include-what-you-use/)
 *   OCLint：用于C，C++和Objective-C的静态源代码分析工具，用于提高质量，减少瑕疵。[官网](http://oclint.org/)
 *   Clang Static Analyzer：查找C，C++和Objective-C程序bug的源代码分析工具。[官网](http://clang-analyzer.llvm.org/index.html)
 *   List of tools for static code analysis：来自维基百科的静态代码分析工具列表。[官网](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B)
