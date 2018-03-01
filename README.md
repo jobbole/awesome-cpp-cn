@@ -92,7 +92,7 @@ C++通用框架和库
 
 *   btsk：游戏行为树启动器工具。[官网](https://github.com/aigamedev/btsk)
 *   Evolving Objects：基于模板的，ANSI C++演化计算库，能够帮助你非常快速地编写出自己的随机优化算法。[官网](http://eodev.sourceforge.net/)
-*   Neu：C++11框架，编程语言集，用于创建人工智能应用程序的多用途软件系统。[官网](https://github.com/andrometa/neu)
+*   Neu：C++11框架，编程语言集，用于创建人工智能应用程序的多用途软件系统。[官网](https://github.com/JackieXie168/neu)
 
 ### 异步事件循环
 
