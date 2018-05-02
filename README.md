@@ -288,6 +288,7 @@ C++通用框架和库
 *   easyloggingpp：C++日志库，只包含单一的头文件。[官网](https://github.com/easylogging/easyloggingpp)
 *   Log4cpp：一系列C++类库，灵活添加日志到文件，系统日志，IDSA和其他地方。[官网](http://log4cpp.sourceforge.net/)
 *   templog：轻量级C++库，可以添加日志到你的C++应用程序中。[官网](http://www.templog.org/)
+*   spdlog：高性能，只包含头文件。[官网](https://github.com/gabime/spdlog)
 
 ### 机器学习
 
