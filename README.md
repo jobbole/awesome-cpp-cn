@@ -177,6 +177,7 @@ C++通用框架和库
 *   Nettle：底层的加密库。[官网](http://www.lysator.liu.se/~nisse/nettle/)
 *   OpenSSL：一个强大的，商用的，功能齐全的，开放源代码的加密库。[官网](http://www.openssl.org/)
 *   Tiny AES128 in C：用C实现的一个小巧，可移植的实现了AES128ESB的加密算法。[官网](https://github.com/kokke/tiny-AES128-C)
+*   GmSSL：支持国密SM2/SM3/SM4算法的OpenSSL分支。[官网](https://github.com/guanzhi/GmSSL)
 
 ### 数据库
 
