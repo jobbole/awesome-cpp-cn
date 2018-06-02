@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、[冰斌](http://www.jobbole.com/members/libing1209/)、[Juliesand](http://www.jobbole.com/members/Juliesh/)、[ZZMarquis](https://github.com/ZZMarquis)、You
+- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、[冰斌](http://www.jobbole.com/members/libing1209/)、[Juliesand](http://www.jobbole.com/members/Juliesh/)、[ZZMarquis](https://github.com/ZZMarquis)、[颜闽辉](https://github.com/yanminhui/]、You
 
 注：名单不分排名，不定期补充更新
 
@@ -282,6 +282,7 @@ C++通用框架和库
 *   QJson：将JSON数据映射到QVariant对象的基于Qt的库。[官网](https://github.com/flavio/qjson)
 *   RapidJSON：用于C++的快速JSON 解析生成器，包含SAX和DOM两种风格的API。[官网](https://github.com/miloyip/rapidjson)
 *   YAJL：C语言中快速流JSON解析库。[官网](https://github.com/lloyd/yajl)
+*   json：一个现代 C++ JSON解析库。语法更直观，集成更简单，经过严格测试的同时对内存效率、速度有深入地考虑。[官网](https://github.com/nlohmann/json)
 
 ### 日志
 
