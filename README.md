@@ -324,7 +324,7 @@ C++通用框架和库
 
 ### 网络
 
-*   ACE：C++面向对象网络变成工具包。[官网](http://www.cs.wustl.edu/~schmidt/ACE.html)
+*   ACE：C++面向对象网络编程工具包。[官网](http://www.cs.wustl.edu/~schmidt/ACE.html)
 *   Boost.Asio：用于网络和底层I/O编程的跨平台的C++库。[官网](http://think-async.com/)
 *   Casablanca：C++ REST SDK。[官网](http://casablanca.codeplex.com/)
 *   cpp-netlib：高级网络编程的开源库集合。[官网](http://cpp-netlib.org/)
