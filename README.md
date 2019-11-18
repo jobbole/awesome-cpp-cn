@@ -387,6 +387,10 @@ C++通用框架和库
 
 ### 物理学
 
+粒子物理
+
+*   Geant4: 粒子探测器模拟引擎。[官网](http://geant4.web.cern.ch)
+
 动力学仿真引擎
 
 *   Box2D：2D的游戏物理引擎。[官网](https://code.google.com/p/box2d/)
