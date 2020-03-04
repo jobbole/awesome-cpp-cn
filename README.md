@@ -144,6 +144,7 @@ C++通用框架和库
 *   Boost.Asio：用于网络和底层I/O编程的跨平台的C++库。[官网](http://think-async.com/)
 *   libev：功能齐全，高性能的时间循环，轻微地仿效libevent，但是不再像libevent一样有局限性，也修复了它的一些bug。[官网](http://libev.schmorp.de/)
 *   libevent：事件通知库。[官网](http://libevent.org/)
+*   libhv：跨平台事件循环库。[官网](https://github.com/ithewei/libhv)
 *   libuv：跨平台异步I/O。[官网](https://github.com/libuv/libuv)
 
 ### 音频
