@@ -440,7 +440,7 @@ C++通用框架和库
 *   libvpx：VP8/VP9编码解码SDK。[官网](http://www.webmproject.org/code/)
 *   FFmpeg：一个完整的，跨平台的解决方案，用于记录，转换视频和音频流。[官网](https://www.ffmpeg.org/)
 *   libde265：开放的h.265视频编解码器的实现。[官网](https://github.com/strukturag/libde265)
-*   OpenH264：开源H.364 编解码器。[官网](https://github.com/cisco/openh264)
+*   OpenH264：开源H.264 编解码器。[官网](https://github.com/cisco/openh264)
 *   Theora：免费开源的视频压缩格式。[官网](http://www.theora.org/)
 
 ### 虚拟机
