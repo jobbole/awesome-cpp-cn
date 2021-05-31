@@ -79,6 +79,7 @@ C++通用框架和库
 *   [Boost](https://github.com/boostorg) ：大量通用 C++ 库的集合。
 *   [BDE](https://github.com/bloomberg/bde) ：来自于彭博资讯实验室的开发环境。
 *   [Cinder](http://libcinder.org/)：提供专业品质创造性编码的开源开发社区。
+*   [CO](https://github.com/idealvin/co) - C++基础库，包含 go-style 协程库，日志库, JSON库, RPC 框架以及其他基本组件。
 *   [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)：轻量级的，只包含头文件的库，将 C++ 11的一些新特性移植到C++03中。
 *   [Dlib](http://dlib.net/)：使用契约式编程和现代 C++ 科技设计的通用的跨平台的 C++ 库。
 *   [EASTL](https://github.com/paulhodge/EASTL) ：EA-STL公共部分。
