@@ -407,7 +407,7 @@ C++通用框架和库
 *   [Mockator](http://www.mockator.com/)：用于C++缝合和模拟对象的Eclipse CDT插件。
 *   [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer)：用于基准测试的简单、低开销、跨平台的定时器类。
 *   [Nonius](https://github.com/libnonius/nonius)：C++微基准测试框架。
-*   [Remotery](https://github.com/Celtoys/Remotery)：用于web视图的单一C文件分析器。
+*   [Remotery](https://github.com/Celtoys/Remotery)：用于Web视图的单一C文件分析器。
 *   [UnitTest++](http://unittest-cpp.sourceforge.net/)：轻量级的C++单元测试框架。
 *   [Unity](https://github.com/ThrowTheSwitch/Unity)：C的简单单元测试。
 *   [utest.h](https://github.com/sheredom/utest.h)：C和C++的单个头文件测试框架。
@@ -426,7 +426,7 @@ C++通用框架和库
 
 *   [Acid](https://github.com/Equilibrium-Games/Acid)：高速的C++17 Vulkan游戏引擎。
 *   [Allegro](http://liballeg.org/)：主要用于视频游戏和多媒体编程的跨平台库。
-*   [Cocos2d-x](http://www.cocos2d-x.org/) ：用于构建2d游戏、交互式书籍、演示和其它图形应用程序的多平台框架。
+*   [Cocos2d-x](http://www.cocos2d-x.org/) ：用于构建2D游戏、交互式书籍、演示和其它图形应用程序的多平台框架。
 *   [Corange](https://github.com/orangeduck/Corange)：用纯C、SDL、OpenGL编写的游戏引擎。
 *   [Crown](https://github.com/dbartolini/crown)：Crown是一款通用的数据驱动游戏引擎，使用正统C++从零开始编写，并牢记简约和面向数据的设计理念。
 *   [delta3d](http://sourceforge.net/projects/delta3d/)：健壮的仿真平台。
@@ -446,7 +446,7 @@ C++通用框架和库
 *   [Spring](https://github.com/spring/spring)：强大、免费、跨平台的RTS游戏引擎。
 *   [Torque2D](https://github.com/GarageGames/Torque2D)：为2D游戏开发构建的开源、跨平台C++引擎。
 *   [Torque3D](https://github.com/GarageGames/Torque3D)：为3D游戏开发构建的开源C++引擎。
-*   [toy engine](https://github.com/hugoam/toy)：toy是一个瘦小的模块化的 C++ 游戏引擎，并提供简单的、有表现力的C++惯用法来快速迭代设计功能齐全的2D和3D游戏。
+*   [toy engine](https://github.com/hugoam/toy)：toy是一个轻量的模块化的 C++ 游戏引擎，并提供简单的、有表现力的C++惯用法来快速迭代设计功能齐全的2D和3D游戏。
 *   [Urho3D](https://urho3d.github.io/)：C++实现的免费、轻量级、跨平台的2D和3D游戏引擎，受到OGRE和Horde3D很大的启发。
 
 ### 图形用户界面
