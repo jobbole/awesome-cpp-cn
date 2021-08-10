@@ -9,7 +9,7 @@
 
 - 维护者：`开源前哨`和`CPP开发者`微信公号团队。 「开源前哨」会定期在知乎专栏分享最新、有趣和热门的开源项目，每个项目都有详细的介绍和示例。传送门：<https://www.zhihu.com/column/c_1317124962785062912>
 
-- 贡献者：[cccookieee](https://github.com/cccookieee)、JingerJoe、云中游、冰斌、Juliesand、[ZZMarquis](https://github.com/ZZMarquis)、[颜闽辉](https://github.com/yanminhui/)、[tangyouhua](https://github.com/tangyouhua)
+- 贡献者：[cccookieee](https://github.com/cccookieee)、JingerJoe、云中游、冰斌、Juliesand、[ZZMarquis](https://github.com/ZZMarquis)、[颜闽辉](https://github.com/yanminhui/)、[tangyouhua](https://github.com/tangyouhua)、[ShenMian](https://github.com/ShenMian)
 
 注：名单不分排名，不定期补充更新
 
