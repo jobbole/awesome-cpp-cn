@@ -435,7 +435,7 @@ C++通用框架和库
 *   [Godot](https://github.com/godotengine/godot): 功能齐全、开源、有MIT许可的游戏引擎。
 *   [Grit](http://gritengine.com/): 社区项目，用于构建一个免费的游戏引擎，实现开放的世界3D游戏。
 *   [Halley](https://github.com/amzeratul/halley): 用C++14编写的轻量级游戏引擎，带有“真实的”实体组件系统。
-*   [Harfang3D](https://www.harfang3d.com)：支持3D，VR 与游戏开发的 C++/Python/Lua/Go 框架。
+*   [Harfang3D](https://github.com/harfang3d/harfang3d)：支持3D，VR 与游戏开发的 C++/Python/Lua/Go 框架。
 *   [KlayGE](https://github.com/gongminmin/KlayGE): 具有基于插件架构的跨平台、开源的游戏引擎。
 *   [nCine](https://github.com/nCine/nCine): 注重性能的跨平台2D游戏引擎，用C++11编写，还可以选择使用Lua编写脚本。
 *   [OpenXRay](https://github.com/OpenXRay/xray-16): 在S.T.A.L.K.E.R.游戏系列中使用的社群修改的X射线引擎。
