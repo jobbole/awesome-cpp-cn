@@ -250,6 +250,7 @@ C++通用框架和库
 
 *   [Boost.Compute](https://github.com/kylelutz/compute): 用于OpenCL的C++GPU计算库。
 *   [Bolt](https://github.com/HSA-Libraries/Bolt): 针对GPU进行优化的C++模板库。
+*   [CGraph](https://github.com/ChunelFeng/CGraph): 一款简单好用的、无任何三方依赖的DAG调度框架。
 *   [ck](https://github.com/concurrencykit/ck): 并发基元，安全内存回收机制和非阻塞数据结构。
 *   [concurrentqueue](https://github.com/cameron314/concurrentqueue): C++11的快速多生产者、多消费者的无锁并发队列。
 *   [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow): 具有任务依赖性的快速C++并行编程。
