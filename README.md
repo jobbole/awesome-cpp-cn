@@ -355,6 +355,7 @@ C++通用框架和库
 
 *   [hiberlite](https://github.com/paulftw/hiberlite): 用于Sqlite3的C++对象关系映射。
 *   [Hiredis](https://github.com/redis/hiredis): 用于Redis数据库的很简单的C客户端库。
+*   [Infinity](https://github.com/infiniflow/infinity): 为AI应用提供极快的向量和全文搜索能力的数据库系统，具备简单易用等特性，采用C++20 Modules开发的大型系统软件。
 *   [LevelDB](https://github.com/google/leveldb): 由Google编写的快速键值存储库，提供了从字符键到字符串值的有序映射。
 *   [LMDB](http://symas.com/mdb/): 符合数据库四大基本元素的嵌入键值存储。
 *   [LMDB++](https://github.com/bendiken/lmdbxx): LMDB嵌入式数据库的C++11封装器。
